@@ -17,3 +17,4 @@ Qiang::Application* Qiang::CreateApplication()
 {
 	return new Sanbox();
 }
+
